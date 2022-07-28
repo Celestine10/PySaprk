@@ -1,1 +1,2 @@
 # PySaprk
+Pyspark is a Python module that allows you to communicate using Apache Spark. It varies to Python within this Spark data frameworks are mirrored, despite the fact that it lets you to construct Spark applications utilizing Python code. Spark includes a number of functionalities, such as Spark SQL as well as the Machine Learning Library. A Spark application consists of a driver software that performs numerous concurrent operations on a cluster while the user's primary goal is accomplished.
